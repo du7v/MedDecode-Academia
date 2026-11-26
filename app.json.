@@ -1,1 +1,22 @@
 
+{
+  "expo": {
+    "name": "MedDecode Academia",
+    "slug": "meddecode-academia",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "meddecodeacademia",
+    "android": {
+      "package": "com.meddecode.academia",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
